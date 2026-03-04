@@ -1,1 +1,1 @@
-İlk projem, bir şeyler deniyorum işte
+Terminal eğlenceli gibi
